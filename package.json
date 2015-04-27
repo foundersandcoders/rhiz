@@ -1,0 +1,34 @@
+{
+  "name": "marbles",
+  "version": "1.0.0",
+  "description": "automatically generate crud routes for a model constructor function",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/foundersandcoders/marbles.git"
+  },
+  "keywords": [
+    "crud",
+    "routes",
+    "automatic",
+    "generate",
+    "constructor",
+    "models"
+  ],
+  "author": "William Fisher, Besart Shyti",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/foundersandcoders/marbles/issues"
+  },
+  "homepage": "https://github.com/foundersandcoders/marbles",
+  "devDependencies": {
+    "faucet": "0.0.1",
+    "istanbul": "^0.3.13",
+    "jshint": "^2.7.0",
+    "pre-commit": "^1.0.6",
+    "tape": "^4.0.0"
+  }
+}
