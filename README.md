@@ -8,7 +8,7 @@ var server = hapi.createServer();
 
 server.connections({ port: 8000 });
 
-server.route(require("marbles")(Model, "articles"));
+server.route(require("rhiz")(Model, "articles"));
 
 function Model () {
 
