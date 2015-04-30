@@ -1,6 +1,6 @@
 {
   "name": "rhiz",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "automatically generate crud routes for a model constructor function",
   "main": "index.js",
   "scripts": {
